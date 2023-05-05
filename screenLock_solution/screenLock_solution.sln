@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "screenLock", "screenLock\screenLock.csproj", "{130767F4-A897-4744-BA25-7A13C4F9B667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{130767F4-A897-4744-BA25-7A13C4F9B667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130767F4-A897-4744-BA25-7A13C4F9B667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130767F4-A897-4744-BA25-7A13C4F9B667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130767F4-A897-4744-BA25-7A13C4F9B667}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62B0D9D7-D5ED-472A-8BFE-56E00F763F18}
+	EndGlobalSection
+EndGlobal

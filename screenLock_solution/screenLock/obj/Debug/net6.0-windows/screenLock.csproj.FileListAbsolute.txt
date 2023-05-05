@@ -1,0 +1,17 @@
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\bin\Debug\net6.0-windows\screenLock.exe
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\bin\Debug\net6.0-windows\screenLock.deps.json
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\bin\Debug\net6.0-windows\screenLock.runtimeconfig.json
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\bin\Debug\net6.0-windows\screenLock.dll
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\bin\Debug\net6.0-windows\screenLock.pdb
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\obj\Debug\net6.0-windows\screenLock.csproj.AssemblyReference.cache
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\obj\Debug\net6.0-windows\screenLock.Form1.resources
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\obj\Debug\net6.0-windows\screenLock.csproj.GenerateResource.cache
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\obj\Debug\net6.0-windows\screenLock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\obj\Debug\net6.0-windows\screenLock.AssemblyInfoInputs.cache
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\obj\Debug\net6.0-windows\screenLock.AssemblyInfo.cs
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\obj\Debug\net6.0-windows\screenLock.csproj.CoreCompileInputs.cache
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\obj\Debug\net6.0-windows\screenLock.dll
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\obj\Debug\net6.0-windows\refint\screenLock.dll
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\obj\Debug\net6.0-windows\screenLock.pdb
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\obj\Debug\net6.0-windows\screenLock.genruntimeconfig.cache
+C:\Users\18032905\source\repos\screenLock_solution\screenLock\obj\Debug\net6.0-windows\ref\screenLock.dll
