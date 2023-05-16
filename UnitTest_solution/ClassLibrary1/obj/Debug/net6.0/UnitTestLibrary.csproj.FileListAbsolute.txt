@@ -1,0 +1,12 @@
+C:\Users\18032905\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\UnitTestLibrary.deps.json
+C:\Users\18032905\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\UnitTestLibrary.dll
+C:\Users\18032905\source\repos\ClassLibrary1\ClassLibrary1\bin\Debug\net6.0\UnitTestLibrary.pdb
+C:\Users\18032905\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\UnitTestLibrary.csproj.AssemblyReference.cache
+C:\Users\18032905\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\UnitTestLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18032905\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\UnitTestLibrary.AssemblyInfoInputs.cache
+C:\Users\18032905\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\UnitTestLibrary.AssemblyInfo.cs
+C:\Users\18032905\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\UnitTestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\18032905\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\UnitTestLibrary.dll
+C:\Users\18032905\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\refint\UnitTestLibrary.dll
+C:\Users\18032905\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\UnitTestLibrary.pdb
+C:\Users\18032905\source\repos\ClassLibrary1\ClassLibrary1\obj\Debug\net6.0\ref\UnitTestLibrary.dll
