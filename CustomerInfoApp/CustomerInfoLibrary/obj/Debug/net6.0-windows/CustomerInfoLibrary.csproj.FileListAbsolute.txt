@@ -1,0 +1,12 @@
+C:\Users\18032905\source\repos\CustomerInfoApp\CustomerInfoLibrary\bin\Debug\net6.0-windows\CustomerInfoLibrary.deps.json
+C:\Users\18032905\source\repos\CustomerInfoApp\CustomerInfoLibrary\bin\Debug\net6.0-windows\CustomerInfoLibrary.dll
+C:\Users\18032905\source\repos\CustomerInfoApp\CustomerInfoLibrary\bin\Debug\net6.0-windows\CustomerInfoLibrary.pdb
+C:\Users\18032905\source\repos\CustomerInfoApp\CustomerInfoLibrary\obj\Debug\net6.0-windows\CustomerInfoLibrary.csproj.AssemblyReference.cache
+C:\Users\18032905\source\repos\CustomerInfoApp\CustomerInfoLibrary\obj\Debug\net6.0-windows\CustomerInfoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\18032905\source\repos\CustomerInfoApp\CustomerInfoLibrary\obj\Debug\net6.0-windows\CustomerInfoLibrary.AssemblyInfoInputs.cache
+C:\Users\18032905\source\repos\CustomerInfoApp\CustomerInfoLibrary\obj\Debug\net6.0-windows\CustomerInfoLibrary.AssemblyInfo.cs
+C:\Users\18032905\source\repos\CustomerInfoApp\CustomerInfoLibrary\obj\Debug\net6.0-windows\CustomerInfoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\18032905\source\repos\CustomerInfoApp\CustomerInfoLibrary\obj\Debug\net6.0-windows\CustomerInfoLibrary.dll
+C:\Users\18032905\source\repos\CustomerInfoApp\CustomerInfoLibrary\obj\Debug\net6.0-windows\refint\CustomerInfoLibrary.dll
+C:\Users\18032905\source\repos\CustomerInfoApp\CustomerInfoLibrary\obj\Debug\net6.0-windows\CustomerInfoLibrary.pdb
+C:\Users\18032905\source\repos\CustomerInfoApp\CustomerInfoLibrary\obj\Debug\net6.0-windows\ref\CustomerInfoLibrary.dll
