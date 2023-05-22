@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WPFMiniProject/1.0.0": {
+        "dependencies": {
+          "CustomerInfoLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "WPFMiniProject.dll": {}
+        }
+      },
+      "CustomerInfoLibrary/1.0.0.0": {
+        "runtime": {
+          "CustomerInfoLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFMiniProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomerInfoLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
